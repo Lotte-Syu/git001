@@ -1,0 +1,5 @@
+{
+  "DB_NAME": "node.js",
+  "DB_ACCOUNT":"admin",
+  "DB_PASSWORD":"12345"
+}
